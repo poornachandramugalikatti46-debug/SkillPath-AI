@@ -220,7 +220,14 @@ export default function Login() {
           <div className="sp-google-login">
             <GoogleLogin
               onSuccess={handleGoogleSuccess}
-              onError={() => setError("Google sign-in failed.")}
+              onError={() =>
+                setError(
+                  "Google Sign-In origin error (403): Add http://localhost:5173 and http://127.0.0.1:5173 to Authorized JavaScript origins in Google Cloud Console."
+                )
+              }
+              shape="rectangular"
+              theme="outline"
+              size="large"
               text="signin_with"
               width="320"
             />
