@@ -1,0 +1,72 @@
+.sidebar-profile-container {
+  width: 100%;
+  padding: 10px;
+  margin-top: auto;
+  box-sizing: border-box;
+}
+
+.sp-sidebar-profile {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 13px;
+  border: 1px solid #24364d;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #132238, #0b1526);
+  transition: border-color 180ms ease, background 180ms ease;
+}
+
+.sp-sidebar-profile:hover {
+  border-color: #32718b;
+  background: linear-gradient(135deg, #172b43, #0d1a2d);
+}
+
+.sp-sidebar-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 43px;
+  width: 43px;
+  height: 43px;
+  border-radius: 14px;
+  color: #061522;
+  background: linear-gradient(135deg, #67e8f9, #22b8dc);
+  font-size: 17px;
+  font-weight: 800;
+  box-shadow: 0 4px 16px rgb(34 184 220 / 18%);
+}
+
+.sp-sidebar-user-details {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 0;
+}
+
+.sp-sidebar-user-name {
+  overflow: hidden;
+  color: #f1f5f9;
+  font-size: 13px;
+  font-weight: 650;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sp-sidebar-user-role {
+  color: #91a6bf;
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+.sp-sidebar-status {
+  flex: 0 0 8px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #34d399;
+  box-shadow: 0 0 10px rgb(52 211 153 / 35%);
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Python Programming Fundamentals",
+    "skills": ["Python"],
+    "type": "Course",
+    "description": "Learn Python syntax, functions, loops, lists, dictionaries and object-oriented programming.",
+    "difficulty": "Beginner"
+  },
+  {
+    "title": "SQL and Database Fundamentals",
+    "skills": ["SQL"],
+    "type": "Course",
+    "description": "Learn SQL queries, joins, aggregation, subqueries and database concepts.",
+    "difficulty": "Beginner"
+  },
+  {
+    "title": "Data Structures and Algorithms",
+    "skills": ["Problem Solving"],
+    "type": "Course",
+    "description": "Practice arrays, strings, linked lists, stacks, queues, trees and algorithmic problem solving.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Git and GitHub",
+    "skills": ["Git"],
+    "type": "Course",
+    "description": "Learn Git commands, branches, commits, pull requests and GitHub workflows.",
+    "difficulty": "Beginner"
+  },
+  {
+    "title": "REST API Development",
+    "skills": ["REST API"],
+    "type": "Project",
+    "description": "Build REST APIs using Python and FastAPI with authentication and database integration.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Backend Development with Python",
+    "skills": ["Backend", "Python"],
+    "type": "Project",
+    "description": "Build a complete backend application using Python, FastAPI, REST APIs and databases.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Java Programming",
+    "skills": ["Java"],
+    "type": "Course",
+    "description": "Learn Java programming, classes, objects, inheritance, interfaces and exception handling.",
+    "difficulty": "Beginner"
+  },
+  {
+    "title": "Object Oriented Programming",
+    "skills": ["OOP"],
+    "type": "Course",
+    "description": "Learn classes, objects, inheritance, polymorphism, abstraction and encapsulation.",
+    "difficulty": "Beginner"
+  },
+  {
+    "title": "Spring Boot Development",
+    "skills": ["Spring", "Java"],
+    "type": "Project",
+    "description": "Build backend applications using Java and Spring Boot REST APIs.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Frontend Development",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "type": "Course",
+    "description": "Learn HTML, CSS and JavaScript and build responsive web applications.",
+    "difficulty": "Beginner"
+  },
+  {
+    "title": "React Development",
+    "skills": ["React", "JavaScript"],
+    "type": "Project",
+    "description": "Build modern frontend applications using React components, hooks and APIs.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Node.js Backend",
+    "skills": ["Node.js", "REST API"],
+    "type": "Project",
+    "description": "Build REST APIs and backend services using Node.js and Express.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "MongoDB Fundamentals",
+    "skills": ["MongoDB"],
+    "type": "Course",
+    "description": "Learn MongoDB documents, collections, queries, indexes and database design.",
+    "difficulty": "Beginner"
+  },
+  {
+    "title": "Statistics for Data Science",
+    "skills": ["Statistics"],
+    "type": "Course",
+    "description": "Learn probability, statistics, distributions, correlation and hypothesis testing.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Pandas and NumPy",
+    "skills": ["Pandas", "NumPy", "Python"],
+    "type": "Course",
+    "description": "Learn data manipulation and numerical computing using Pandas and NumPy.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Machine Learning Fundamentals",
+    "skills": ["Machine Learning", "Python"],
+    "type": "Course",
+    "description": "Learn supervised learning, unsupervised learning, model training and evaluation.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Scikit-learn Machine Learning Project",
+    "skills": ["Scikit-learn", "Machine Learning", "Python"],
+    "type": "Project",
+    "description": "Build and deploy machine learning models using Scikit-learn.",
+    "difficulty": "Advanced"
+  },
+  {
+    "title": "Docker Fundamentals",
+    "skills": ["Docker"],
+    "type": "Course",
+    "description": "Learn Docker images, containers, Dockerfiles and containerized applications.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "AWS Cloud Fundamentals",
+    "skills": ["AWS", "Cloud"],
+    "type": "Course",
+    "description": "Learn AWS cloud services, EC2, S3, IAM and basic cloud architecture.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Linux and Networking",
+    "skills": ["Linux", "Networking"],
+    "type": "Course",
+    "description": "Learn Linux commands, processes, permissions, networking and basic system administration.",
+    "difficulty": "Intermediate"
+  }
+]

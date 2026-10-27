@@ -1,0 +1,527 @@
+{
+  "software developer": {
+    "Python": 70,
+    "Java": 70,
+    "JavaScript": 65,
+    "SQL": 70,
+    "Git": 65,
+    "Data Structures": 80,
+    "Algorithms": 75,
+    "REST API": 65,
+    "HTML": 55,
+    "CSS": 50,
+    "Docker": 40,
+    "Linux": 40
+  },
+
+  "Python Developer": {
+    "Python": 90,
+    "SQL": 70,
+    "Git": 60,
+    "REST API": 70,
+    "Backend": 80,
+    "Problem Solving": 70
+  },
+
+  "Java Developer": {
+    "Java": 90,
+    "SQL": 70,
+    "OOP": 80,
+    "Spring": 70,
+    "Git": 60,
+    "Problem Solving": 70
+  },
+
+  "Frontend Developer": {
+    "HTML": 80,
+    "CSS": 80,
+    "JavaScript": 90,
+    "React": 80,
+    "Git": 60
+  },
+
+  "Backend Developer": {
+    "Python": 70,
+    "Node.js": 70,
+    "REST API": 80,
+    "SQL": 80,
+    "MongoDB": 70,
+    "Git": 60
+  },
+
+  "Full Stack Developer": {
+    "HTML": 70,
+    "CSS": 70,
+    "JavaScript": 80,
+    "React": 80,
+    "Node.js": 75,
+    "SQL": 75,
+    "REST API": 75,
+    "Git": 60
+  },
+
+  "Software Engineer": {
+    "Python": 70,
+    "Java": 70,
+    "JavaScript": 65,
+    "SQL": 70,
+    "Git": 70,
+    "Data Structures": 85,
+    "Algorithms": 80,
+    "REST API": 70,
+    "Docker": 50,
+    "Linux": 45
+  },
+
+  "Node.js Developer": {
+    "Node.js": 90,
+    "JavaScript": 85,
+    "REST API": 80,
+    "SQL": 75,
+    "Git": 65,
+    "Docker": 55
+  },
+
+  "React Developer": {
+    "React": 90,
+    "JavaScript": 85,
+    "HTML": 80,
+    "CSS": 80,
+    "Git": 65,
+    "REST API": 60
+  },
+
+  "Angular Developer": {
+    "Angular": 90,
+    "TypeScript": 85,
+    "HTML": 75,
+    "CSS": 75,
+    "Git": 60,
+    "REST API": 65
+  },
+
+  "Flutter Developer": {
+    "Flutter": 90,
+    "Dart": 90,
+    "Git": 60,
+    "REST API": 65,
+    "UI/UX": 70
+  },
+
+  "Android Developer": {
+    "Android": 90,
+    "Java": 70,
+    "Kotlin": 80,
+    "Git": 60,
+    "REST API": 65
+  },
+
+  "iOS Developer": {
+    "iOS": 90,
+    "Swift": 85,
+    "Git": 60,
+    "REST API": 65,
+    "UI/UX": 70
+  },
+
+  "Mobile App Developer": {
+    "JavaScript": 65,
+    "React": 70,
+    "Flutter": 70,
+    "Dart": 70,
+    "REST API": 70,
+    "Git": 60
+  },
+
+  "Data Analyst": {
+    "Python": 70,
+    "SQL": 85,
+    "Pandas": 80,
+    "NumPy": 70,
+    "Statistics": 80,
+    "Data Visualization": 75
+  },
+
+  "Data Scientist": {
+    "Python": 80,
+    "Pandas": 80,
+    "NumPy": 75,
+    "Statistics": 85,
+    "Machine Learning": 85,
+    "SQL": 70
+  },
+
+  "ML Engineer": {
+    "Python": 85,
+    "Machine Learning": 90,
+    "Statistics": 80,
+    "SQL": 70,
+    "Scikit-learn": 80,
+    "Docker": 70,
+    "Git": 70
+  },
+
+  "AI Engineer": {
+    "Python": 85,
+    "Machine Learning": 90,
+    "Deep Learning": 85,
+    "NLP": 75,
+    "PyTorch": 80,
+    "Docker": 65,
+    "Git": 70
+  },
+
+  "AI/ML Engineer": {
+    "Python": 85,
+    "Machine Learning": 90,
+    "Deep Learning": 85,
+    "TensorFlow": 75,
+    "PyTorch": 75,
+    "SQL": 70,
+    "Docker": 65
+  },
+
+  "Deep Learning Engineer": {
+    "Python": 85,
+    "Deep Learning": 95,
+    "PyTorch": 90,
+    "TensorFlow": 85,
+    "NLP": 70,
+    "Git": 65,
+    "Docker": 60
+  },
+
+  "NLP Engineer": {
+    "Python": 85,
+    "NLP": 90,
+    "Machine Learning": 80,
+    "Deep Learning": 75,
+    "PyTorch": 75,
+    "Git": 60
+  },
+
+  "Computer Vision Engineer": {
+    "Python": 85,
+    "Computer Vision": 95,
+    "OpenCV": 85,
+    "Deep Learning": 80,
+    "PyTorch": 75,
+    "Git": 65
+  },
+
+  "Data Engineer": {
+    "Python": 80,
+    "SQL": 90,
+    "ETL": 80,
+    "Spark": 75,
+    "AWS": 70,
+    "Docker": 65,
+    "Git": 60
+  },
+
+  "BI Analyst": {
+    "SQL": 90,
+    "Python": 70,
+    "Power BI": 90,
+    "Tableau": 75,
+    "Excel": 85,
+    "Statistics": 70
+  },
+
+  "Analytics Engineer": {
+    "SQL": 90,
+    "Python": 80,
+    "dbt": 75,
+    "Data Modeling": 80,
+    "Git": 65,
+    "Docker": 55
+  },
+
+  "Cloud Engineer": {
+    "Linux": 80,
+    "Networking": 80,
+    "AWS": 85,
+    "Docker": 75,
+    "Git": 65,
+    "Cloud": 85
+  },
+
+  "AWS Cloud Engineer": {
+    "AWS": 95,
+    "Linux": 80,
+    "Docker": 75,
+    "Networking": 75,
+    "Git": 65,
+    "Cloud": 85
+  },
+
+  "Azure Cloud Engineer": {
+    "Azure": 95,
+    "Linux": 75,
+    "Docker": 70,
+    "Networking": 75,
+    "Git": 65,
+    "Cloud": 80
+  },
+
+  "GCP Cloud Engineer": {
+    "GCP": 95,
+    "Linux": 75,
+    "Docker": 70,
+    "Networking": 75,
+    "Git": 65,
+    "Cloud": 80
+  },
+
+  "DevOps Engineer": {
+    "Linux": 85,
+    "Docker": 90,
+    "Kubernetes": 80,
+    "Terraform": 75,
+    "Git": 80,
+    "AWS": 70
+  },
+
+  "Site Reliability Engineer": {
+    "Linux": 90,
+    "Docker": 80,
+    "Kubernetes": 80,
+    "Terraform": 75,
+    "AWS": 80,
+    "Git": 70
+  },
+
+  "Platform Engineer": {
+    "Linux": 85,
+    "Docker": 85,
+    "Kubernetes": 85,
+    "Terraform": 80,
+    "Git": 75,
+    "Cloud": 80
+  },
+
+  "Cloud Architect": {
+    "AWS": 90,
+    "Azure": 85,
+    "GCP": 80,
+    "Networking": 80,
+    "Cloud": 90,
+    "Terraform": 75
+  },
+
+  "DevSecOps Engineer": {
+    "Linux": 80,
+    "Docker": 80,
+    "Security": 85,
+    "AWS": 70,
+    "Terraform": 75,
+    "Git": 70
+  },
+
+  "Cybersecurity Analyst": {
+    "Linux": 70,
+    "Networking": 80,
+    "Security": 85,
+    "Python": 60,
+    "SQL": 55,
+    "Git": 50
+  },
+
+  "Cybersecurity Engineer": {
+    "Security": 90,
+    "Linux": 75,
+    "Networking": 80,
+    "Python": 70,
+    "AWS": 60,
+    "Git": 60
+  },
+
+  "Security Engineer": {
+    "Security": 90,
+    "Linux": 75,
+    "Networking": 80,
+    "Python": 70,
+    "Cloud": 70,
+    "Git": 60
+  },
+
+  "SOC Analyst": {
+    "Security": 80,
+    "Linux": 70,
+    "Networking": 75,
+    "Python": 55,
+    "SQL": 55,
+    "Git": 50
+  },
+
+  "Cloud Security Engineer": {
+    "Cloud": 90,
+    "Security": 90,
+    "AWS": 80,
+    "Azure": 75,
+    "GCP": 75,
+    "Linux": 70
+  },
+
+  "Application Security Engineer": {
+    "Security": 90,
+    "Python": 75,
+    "Java": 70,
+    "JavaScript": 65,
+    "SQL": 55,
+    "Git": 60
+  },
+
+  "Penetration Tester": {
+    "Security": 90,
+    "Linux": 80,
+    "Networking": 85,
+    "Python": 70,
+    "Git": 60,
+    "SQL": 50
+  },
+
+  "QA Engineer": {
+    "Testing": 85,
+    "Java": 65,
+    "Python": 60,
+    "Git": 60,
+    "SQL": 50,
+    "Automation": 75
+  },
+
+  "Software Tester": {
+    "Testing": 90,
+    "Java": 60,
+    "Python": 60,
+    "Git": 55,
+    "SQL": 45,
+    "Automation": 70
+  },
+
+  "Automation Tester": {
+    "Testing": 90,
+    "Automation": 85,
+    "Java": 70,
+    "JavaScript": 65,
+    "Git": 60,
+    "SQL": 50
+  },
+
+  "SDET": {
+    "Testing": 90,
+    "Java": 80,
+    "Automation": 85,
+    "Python": 70,
+    "Git": 60,
+    "SQL": 55
+  },
+
+  "Performance Test Engineer": {
+    "Testing": 90,
+    "Performance": 90,
+    "Java": 70,
+    "Python": 60,
+    "Git": 55,
+    "SQL": 50
+  },
+
+  "Database Administrator": {
+    "SQL": 95,
+    "Database": 90,
+    "Linux": 70,
+    "Networking": 60,
+    "Backup": 70,
+    "Git": 50
+  },
+
+  "Database Developer": {
+    "SQL": 90,
+    "Database": 85,
+    "Python": 60,
+    "Java": 60,
+    "Git": 55
+  },
+
+  "SQL Developer": {
+    "SQL": 95,
+    "Database": 85,
+    "Python": 55,
+    "Git": 50,
+    "Data Modeling": 70
+  },
+
+  "MongoDB Developer": {
+    "MongoDB": 95,
+    "SQL": 55,
+    "Node.js": 70,
+    "JavaScript": 60,
+    "Git": 50
+  },
+
+  "Data Warehouse Engineer": {
+    "SQL": 90,
+    "ETL": 85,
+    "Data Modeling": 80,
+    "Python": 70,
+    "AWS": 65,
+    "Git": 60
+  },
+
+  "UI Designer": {
+    "UI/UX": 90,
+    "Figma": 85,
+    "HTML": 65,
+    "CSS": 65,
+    "Design": 80
+  },
+
+  "UX Designer": {
+    "UI/UX": 90,
+    "Figma": 85,
+    "Research": 80,
+    "Design": 85,
+    "JavaScript": 40
+  },
+
+  "UI/UX Designer": {
+    "UI/UX": 95,
+    "Figma": 90,
+    "HTML": 60,
+    "CSS": 60,
+    "Design": 85
+  },
+
+  "Product Designer": {
+    "UI/UX": 90,
+    "Figma": 85,
+    "Product": 80,
+    "Design": 85,
+    "Research": 75
+  },
+
+  "Product Manager": {
+    "Product": 90,
+    "Communication": 90,
+    "SQL": 55,
+    "Data Analysis": 70,
+    "Strategy": 85
+  },
+
+  "Business Analyst": {
+    "SQL": 75,
+    "Excel": 85,
+    "Communication": 90,
+    "Product": 75,
+    "Data Analysis": 80
+  },
+
+  "Technical Product Manager": {
+    "Product": 90,
+    "SQL": 65,
+    "Python": 60,
+    "JavaScript": 55,
+    "Communication": 90,
+    "Strategy": 80
+  }
+}

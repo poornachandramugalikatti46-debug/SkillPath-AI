@@ -1,0 +1,1251 @@
+[
+  {
+    "id": 1,
+    "category": "technical",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "define"
+    ],
+    "answer": "def",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "category": "technical",
+    "question": "Which data structure stores key-value pairs in Python?",
+    "options": [
+      "List",
+      "Tuple",
+      "Dictionary",
+      "Set"
+    ],
+    "answer": "Dictionary",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "category": "technical",
+    "question": "Which SQL command is used to retrieve data?",
+    "options": [
+      "INSERT",
+      "UPDATE",
+      "SELECT",
+      "DELETE"
+    ],
+    "answer": "SELECT",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "category": "technical",
+    "question": "Which HTTP method is commonly used to retrieve data from an API?",
+    "options": [
+      "POST",
+      "GET",
+      "DELETE",
+      "PATCH"
+    ],
+    "answer": "GET",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "category": "technical",
+    "question": "Which library is commonly used for machine learning in Python?",
+    "options": [
+      "Scikit-learn",
+      "Django",
+      "Flask",
+      "Tkinter"
+    ],
+    "answer": "Scikit-learn",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "category": "aptitude",
+    "question": "If a number is increased from 100 to 120, what is the percentage increase?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "answer": "20%",
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "category": "aptitude",
+    "question": "What is 25% of 200?",
+    "options": [
+      "25",
+      "40",
+      "50",
+      "75"
+    ],
+    "answer": "50",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "category": "aptitude",
+    "question": "If 5 pens cost ₹50, what is the cost of 1 pen?",
+    "options": [
+      "₹5",
+      "₹10",
+      "₹15",
+      "₹20"
+    ],
+    "answer": "₹10",
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "category": "aptitude",
+    "question": "What comes next: 2, 4, 8, 16, ?",
+    "options": [
+      "20",
+      "24",
+      "32",
+      "36"
+    ],
+    "answer": "32",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "category": "aptitude",
+    "question": "A train travels 60 km in 1 hour. How far will it travel in 3 hours?",
+    "options": [
+      "120 km",
+      "150 km",
+      "180 km",
+      "240 km"
+    ],
+    "answer": "180 km",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "category": "problem_solving",
+    "question": "Which data structure follows FIFO?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Queue",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "category": "problem_solving",
+    "question": "Which data structure follows LIFO?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Graph"
+    ],
+    "answer": "Stack",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "category": "problem_solving",
+    "question": "Which algorithm is commonly used to find an element in a sorted array efficiently?",
+    "options": [
+      "Linear Search",
+      "Binary Search",
+      "Bubble Sort",
+      "DFS"
+    ],
+    "answer": "Binary Search",
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "category": "problem_solving",
+    "question": "What is the average time complexity of binary search?",
+    "options": [
+      "O(n)",
+      "O(n²)",
+      "O(log n)",
+      "O(1)"
+    ],
+    "answer": "O(log n)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 15,
+    "category": "problem_solving",
+    "question": "Which sorting algorithm repeatedly compares adjacent elements?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Bubble Sort",
+      "Binary Search"
+    ],
+    "answer": "Bubble Sort",
+    "difficulty": "easy"
+  },
+  {
+    "id": 16,
+    "roles": [
+      "python_developer"
+    ],
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a Python decorator?",
+    "options": [
+      "Delete a function",
+      "Modify or extend a function's behavior",
+      "Create a database",
+      "Install Python packages"
+    ],
+    "answer": "Modify or extend a function's behavior",
+    "explanation": "A decorator wraps a function to add or change behavior without directly rewriting the original function."
+  },
+  {
+    "id": 17,
+    "roles": [
+      "python_developer"
+    ],
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "Which Python feature is commonly used to manage resources such as files safely?",
+    "options": [
+      "The global keyword",
+      "The with statement",
+      "The pass statement",
+      "The lambda keyword"
+    ],
+    "answer": "The with statement",
+    "explanation": "The with statement uses a context manager to handle resource setup and cleanup, including closing files."
+  },
+  {
+    "id": 18,
+    "roles": [
+      "python_developer"
+    ],
+    "category": "problem_solving",
+    "difficulty": "medium",
+    "question": "What is the average time complexity of dictionary lookup in Python?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(1)",
+      "O(n²)"
+    ],
+    "answer": "O(1)",
+    "explanation": "Python dictionaries use hash tables, so lookup is average-case constant time, although worst-case behavior can be slower."
+  },
+  {
+    "id": 19,
+    "roles": [
+      "backend_developer"
+    ],
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "Which HTTP status code usually indicates that a resource was created successfully?",
+    "options": [
+      "200",
+      "201",
+      "404",
+      "500"
+    ],
+    "answer": "201",
+    "explanation": "HTTP 201 Created indicates that a request successfully created a resource."
+  },
+  {
+    "id": 20,
+    "roles": [
+      "backend_developer"
+    ],
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "What is the main purpose of a database transaction?",
+    "options": [
+      "To change CSS styles",
+      "To group operations into a reliable unit of work",
+      "To increase image resolution",
+      "To compile JavaScript"
+    ],
+    "answer": "To group operations into a reliable unit of work",
+    "explanation": "Transactions help maintain data consistency by committing related operations together or rolling them back when needed."
+  },
+  {
+    "id": 21,
+    "roles": [
+      "backend_developer"
+    ],
+    "category": "problem_solving",
+    "difficulty": "medium",
+    "question": "Which technique helps prevent repeated processing of the same expensive request?",
+    "options": [
+      "Caching",
+      "Increasing font size",
+      "Renaming variables",
+      "Removing API validation"
+    ],
+    "answer": "Caching",
+    "explanation": "Caching stores reusable results so repeated requests can be served faster and with less processing."
+  },
+  {
+    "id": 22,
+    "roles": [
+      "data_analyst"
+    ],
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "Which Pandas function is commonly used to group rows and calculate summaries?",
+    "options": [
+      "groupby()",
+      "append_html()",
+      "compile()",
+      "render()"
+    ],
+    "answer": "groupby()",
+    "explanation": "Pandas groupby groups records by one or more columns so you can calculate aggregates such as sums and means."
+  },
+  {
+    "id": 23,
+    "roles": [
+      "data_analyst"
+    ],
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "Which measure is generally more resistant to extreme outliers?",
+    "options": [
+      "Arithmetic mean",
+      "Median",
+      "Maximum",
+      "Range"
+    ],
+    "answer": "Median",
+    "explanation": "The median depends on the middle ordered value and is usually less affected by extreme values than the mean."
+  },
+  {
+    "id": 24,
+    "roles": [
+      "data_analyst"
+    ],
+    "category": "problem_solving",
+    "difficulty": "medium",
+    "question": "What does a SQL GROUP BY clause do?",
+    "options": [
+      "Groups rows with matching values for aggregation",
+      "Deletes duplicate tables automatically",
+      "Sorts every column alphabetically",
+      "Creates a new database"
+    ],
+    "answer": "Groups rows with matching values for aggregation",
+    "explanation": "GROUP BY groups rows by selected columns, commonly for COUNT, SUM, AVG, MIN, and MAX calculations."
+  },
+  {
+    "id": 25,
+    "roles": [
+      "ml_engineer"
+    ],
+    "category": "technical",
+    "difficulty": "medium",
+    "question": "What is overfitting in machine learning?",
+    "options": [
+      "A model performs well on training data but poorly on unseen data",
+      "A model has no input features",
+      "A dataset contains only numbers",
+      "A model always predicts the same class by design"
+    ],
+    "answer": "A model performs well on training data but poorly on unseen data",
+    "explanation": "An overfit model learns training-specific patterns, including noise, and does not generalize well to new examples."
+  },
+  {
+    "id": 26,
+    "roles": [
+      "ml_engineer"
+    ],
+    "category": "technical",
+    "difficulty": "hard",
+    "question": "Why should preprocessing be fitted only on the training split?",
+    "options": [
+      "To avoid data leakage from validation or test data",
+      "To make every dataset identical",
+      "To remove the need for evaluation",
+      "To guarantee 100 percent accuracy"
+    ],
+    "answer": "To avoid data leakage from validation or test data",
+    "explanation": "Fitting preprocessing on held-out data leaks information into training and can make evaluation results misleading."
+  },
+  {
+    "id": 27,
+    "roles": [
+      "ml_engineer"
+    ],
+    "category": "problem_solving",
+    "difficulty": "medium",
+    "question": "Which metric is often useful when positive examples are rare and false positives matter?",
+    "options": [
+      "Precision",
+      "File size",
+      "Training duration",
+      "Number of columns"
+    ],
+    "answer": "Precision",
+    "explanation": "Precision measures the fraction of predicted positive cases that are actually positive. Recall and other metrics may also be important depending on the cost of errors."
+  },
+  {
+    "id": 298,
+    "category": "technical",
+    "question": "What is the main responsibility of a full-stack developer?",
+    "options": [
+      "Work across frontend and backend application layers",
+      "Work only with CSS",
+      "Manage only database backups",
+      "Design computer hardware"
+    ],
+    "answer": "Work across frontend and backend application layers",
+    "explanation": "Full-stack developers work across the user interface and the server-side application layers.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 299,
+    "category": "technical",
+    "question": "Which technology is commonly used to structure web pages?",
+    "options": [
+      "HTML",
+      "MongoDB",
+      "Redis",
+      "Docker"
+    ],
+    "answer": "HTML",
+    "explanation": "HTML defines the structure and semantic content of a web page.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 300,
+    "category": "technical",
+    "question": "Which technology is primarily responsible for styling web pages?",
+    "options": [
+      "CSS",
+      "SQL",
+      "Python",
+      "Git"
+    ],
+    "answer": "CSS",
+    "explanation": "CSS controls the visual presentation and layout of web content.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 301,
+    "category": "technical",
+    "question": "What is JavaScript commonly used for in web applications?",
+    "options": [
+      "Adding interactive behavior",
+      "Replacing every database",
+      "Creating HTTP standards",
+      "Managing physical servers only"
+    ],
+    "answer": "Adding interactive behavior",
+    "explanation": "JavaScript supports dynamic behavior in browsers and can also run on servers.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 302,
+    "category": "technical",
+    "question": "What is React primarily used to build?",
+    "options": [
+      "User interfaces",
+      "Database indexes",
+      "Operating systems",
+      "Network cables"
+    ],
+    "answer": "User interfaces",
+    "explanation": "React is a JavaScript library for building component-based interfaces.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 303,
+    "category": "technical",
+    "question": "What is the main purpose of a backend server?",
+    "options": [
+      "Handle application logic and requests",
+      "Style headings in the browser",
+      "Render every CSS animation",
+      "Replace all frontend code"
+    ],
+    "answer": "Handle application logic and requests",
+    "explanation": "A backend commonly handles business logic, authentication, data access, and API requests.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 304,
+    "category": "technical",
+    "question": "What does an API allow?",
+    "options": [
+      "Different software components to communicate through a defined interface",
+      "Only images to load faster",
+      "A browser to avoid all network requests",
+      "A database to work without data"
+    ],
+    "answer": "Different software components to communicate through a defined interface",
+    "explanation": "An API defines how one software component can request or exchange information with another.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 305,
+    "category": "technical",
+    "question": "Which HTTP method is commonly used to retrieve a resource?",
+    "options": [
+      "GET",
+      "POST",
+      "DELETE",
+      "PATCH"
+    ],
+    "answer": "GET",
+    "explanation": "GET requests representation of a resource and is intended to be safe.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 306,
+    "category": "technical",
+    "question": "Which HTTP status code commonly indicates successful resource creation?",
+    "options": [
+      "201",
+      "404",
+      "500",
+      "401"
+    ],
+    "answer": "201",
+    "explanation": "HTTP 201 Created indicates that a request successfully created a resource.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 307,
+    "category": "technical",
+    "question": "What is a database used for?",
+    "options": [
+      "Storing and organizing application data",
+      "Styling a web page",
+      "Compiling CSS only",
+      "Replacing HTTP requests"
+    ],
+    "answer": "Storing and organizing application data",
+    "explanation": "Databases store, organize, and retrieve data needed by applications.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 308,
+    "category": "technical",
+    "question": "Which of these is a relational database?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Figma"
+    ],
+    "answer": "MySQL",
+    "explanation": "MySQL stores relational data in tables and supports SQL queries.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 309,
+    "category": "technical",
+    "question": "What does CRUD stand for?",
+    "options": [
+      "Create, Read, Update, Delete",
+      "Compile, Run, Upload, Deploy",
+      "Create, Render, Use, Design",
+      "Connect, Reset, Undo, Debug"
+    ],
+    "answer": "Create, Read, Update, Delete",
+    "explanation": "CRUD describes the four basic operations commonly performed on stored data.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 310,
+    "category": "technical",
+    "question": "What is Git mainly used for?",
+    "options": [
+      "Version control",
+      "Database hosting",
+      "CSS styling",
+      "User authentication"
+    ],
+    "answer": "Version control",
+    "explanation": "Git tracks changes to files and supports collaborative development.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 311,
+    "category": "technical",
+    "question": "Why are environment variables often used in applications?",
+    "options": [
+      "Configure applications without hardcoding environment-specific values",
+      "Automatically improve UI colors",
+      "Replace all source code",
+      "Guarantee secrets are safe in every situation"
+    ],
+    "answer": "Configure applications without hardcoding environment-specific values",
+    "explanation": "Environment variables can hold configuration such as service URLs and secret references, but must still be protected appropriately.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 312,
+    "category": "technical",
+    "question": "What is the purpose of responsive web design?",
+    "options": [
+      "Adapt the interface to different screen sizes",
+      "Make all screens exactly the same size",
+      "Prevent the use of JavaScript",
+      "Replace the backend"
+    ],
+    "answer": "Adapt the interface to different screen sizes",
+    "explanation": "Responsive design uses flexible layouts and media queries to support different devices.",
+    "difficulty": "easy",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 313,
+    "category": "technical",
+    "question": "What is the difference between authentication and authorization?",
+    "options": [
+      "Authentication verifies identity; authorization determines permitted actions",
+      "They mean exactly the same thing",
+      "Authorization always happens before a user exists",
+      "Authentication only controls CSS"
+    ],
+    "answer": "Authentication verifies identity; authorization determines permitted actions",
+    "explanation": "A system first establishes who a user is, then checks which resources or actions they are allowed to access.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 314,
+    "category": "technical",
+    "question": "Why is password hashing preferred over storing plaintext passwords?",
+    "options": [
+      "A suitable password hash makes the original password difficult to recover",
+      "It allows the server to display every password",
+      "It removes the need for authentication",
+      "It guarantees that accounts cannot be attacked"
+    ],
+    "answer": "A suitable password hash makes the original password difficult to recover",
+    "explanation": "Passwords should be stored with a purpose-built, salted password hashing algorithm such as Argon2id or bcrypt.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 315,
+    "category": "technical",
+    "question": "What is the purpose of middleware in a backend framework?",
+    "options": [
+      "Process requests or responses in a reusable pipeline",
+      "Define only the browser font size",
+      "Replace every database table",
+      "Automatically guarantee application security"
+    ],
+    "answer": "Process requests or responses in a reusable pipeline",
+    "explanation": "Middleware commonly supports logging, authentication checks, request parsing, and error handling.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 316,
+    "category": "technical",
+    "question": "Which HTTP status code usually indicates that a resource was created successfully?",
+    "options": [
+      "200",
+      "201",
+      "404",
+      "500"
+    ],
+    "answer": "201",
+    "explanation": "HTTP 201 Created indicates that a request successfully created a resource.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 317,
+    "category": "technical",
+    "question": "What is the main purpose of a database transaction?",
+    "options": [
+      "To group operations into a reliable unit of work",
+      "To change CSS styles",
+      "To increase image resolution",
+      "To compile JavaScript"
+    ],
+    "answer": "To group operations into a reliable unit of work",
+    "explanation": "Transactions help maintain data consistency by committing related operations together or rolling them back when needed.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 318,
+    "category": "problem_solving",
+    "question": "Which technique helps prevent repeated processing of the same expensive request?",
+    "options": [
+      "Caching",
+      "Increasing font size",
+      "Renaming variables",
+      "Removing API validation"
+    ],
+    "answer": "Caching",
+    "explanation": "Caching stores reusable results so repeated requests can be served faster and with less processing.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 319,
+    "category": "technical",
+    "question": "What does a Promise represent in JavaScript?",
+    "options": [
+      "The eventual completion or failure of an asynchronous operation",
+      "A database table",
+      "A CSS selector",
+      "A synchronous loop only"
+    ],
+    "answer": "The eventual completion or failure of an asynchronous operation",
+    "explanation": "Promises represent a result that may become available later and can be handled with then or await.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 320,
+    "category": "technical",
+    "question": "What does HTTP 401 commonly mean?",
+    "options": [
+      "Authentication is required or has failed",
+      "The request succeeded",
+      "The resource was created",
+      "The server is always permanently unavailable"
+    ],
+    "answer": "Authentication is required or has failed",
+    "explanation": "HTTP 401 indicates an authentication problem; HTTP 403 generally indicates insufficient permission.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 321,
+    "category": "technical",
+    "question": "What is the purpose of a transaction in a database?",
+    "options": [
+      "Group operations into a unit with defined consistency and atomicity behavior",
+      "Style database results",
+      "Create a frontend animation",
+      "Replace API authentication"
+    ],
+    "answer": "Group operations into a unit with defined consistency and atomicity behavior",
+    "explanation": "Transactions help ensure a set of related operations follows the database's transactional guarantees.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 322,
+    "category": "technical",
+    "question": "What is CORS used for?",
+    "options": [
+      "Allow servers to specify permitted cross-origin browser requests",
+      "Hash passwords",
+      "Compress JavaScript variables",
+      "Create database relationships"
+    ],
+    "answer": "Allow servers to specify permitted cross-origin browser requests",
+    "explanation": "Cross-Origin Resource Sharing uses response headers to control browser access across origins.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 323,
+    "category": "technical",
+    "question": "What is pagination used for in an API?",
+    "options": [
+      "Return large result sets in manageable portions",
+      "Encrypt the request body",
+      "Guarantee every result is unique",
+      "Replace database indexing"
+    ],
+    "answer": "Return large result sets in manageable portions",
+    "explanation": "Pagination limits the amount of data returned in a response and supports navigation through results.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 324,
+    "category": "technical",
+    "question": "What is the purpose of an HTTP PATCH request?",
+    "options": [
+      "Apply a partial modification to a resource",
+      "Always delete a resource",
+      "Always retrieve a resource",
+      "Create a new TCP connection manually"
+    ],
+    "answer": "Apply a partial modification to a resource",
+    "explanation": "PATCH is commonly used to apply partial updates, while PUT is generally used for full replacement semantics.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 325,
+    "category": "technical",
+    "question": "What is a common use of caching in a web application?",
+    "options": [
+      "Reuse previously computed or fetched data to reduce latency and work",
+      "Guarantee that stored data is always current",
+      "Replace authentication",
+      "Prevent all database writes"
+    ],
+    "answer": "Reuse previously computed or fetched data to reduce latency and work",
+    "explanation": "Caching can improve speed and reduce load, but cache expiration and invalidation need careful design.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 326,
+    "category": "technical",
+    "question": "What is a REST API commonly designed around?",
+    "options": [
+      "Resources identified by URLs and manipulated through HTTP semantics",
+      "A requirement to use only one programming language",
+      "A requirement to store every value in localStorage",
+      "A requirement to avoid status codes"
+    ],
+    "answer": "Resources identified by URLs and manipulated through HTTP semantics",
+    "explanation": "REST is an architectural style; well-designed HTTP APIs use resource-oriented identifiers and appropriate HTTP semantics.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 327,
+    "category": "technical",
+    "question": "What does a Promise represent in JavaScript?",
+    "options": [
+      "The eventual completion or failure of an asynchronous operation",
+      "A database table",
+      "A CSS selector",
+      "A synchronous loop only"
+    ],
+    "answer": "The eventual completion or failure of an asynchronous operation",
+    "explanation": "Promises represent a result that may become available later and can be handled with then/catch or async/await.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 328,
+    "category": "technical",
+    "question": "Why should a database connection pool be used in many backend applications?",
+    "options": [
+      "Reuse connections and limit connection creation overhead",
+      "Guarantee every query succeeds",
+      "Replace SQL statements",
+      "Store frontend CSS"
+    ],
+    "answer": "Reuse connections and limit connection creation overhead",
+    "explanation": "Connection pools manage a reusable set of connections and can reduce setup overhead under load.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 329,
+    "category": "technical",
+    "question": "What is an integration test intended to check?",
+    "options": [
+      "Whether multiple components work together correctly",
+      "Only the spelling of variable names",
+      "Only a single isolated function in all cases",
+      "The physical condition of the server"
+    ],
+    "answer": "Whether multiple components work together correctly",
+    "explanation": "Integration tests check interactions such as a route communicating with a database or service.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 330,
+    "category": "technical",
+    "question": "What is the main purpose of Docker?",
+    "options": [
+      "Package applications and their dependencies into containers",
+      "Replace all programming languages",
+      "Guarantee an application has no vulnerabilities",
+      "Write database queries automatically"
+    ],
+    "answer": "Package applications and their dependencies into containers",
+    "explanation": "Containers help provide consistent application environments across development and deployment.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 331,
+    "category": "technical",
+    "question": "Why are database migrations used?",
+    "options": [
+      "Track and apply changes to database schema over time",
+      "Animate page transitions",
+      "Replace source control",
+      "Automatically remove all old data"
+    ],
+    "answer": "Track and apply changes to database schema over time",
+    "explanation": "Migrations provide a controlled history of schema changes that can be applied across environments.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 332,
+    "category": "technical",
+    "question": "What is the purpose of a reverse proxy?",
+    "options": [
+      "Receive client requests and forward them to backend services",
+      "Run only browser-side JavaScript",
+      "Replace every database",
+      "Convert all requests into SQL"
+    ],
+    "answer": "Receive client requests and forward them to backend services",
+    "explanation": "Reverse proxies can support routing, TLS termination, load balancing, and other edge functions.",
+    "difficulty": "medium",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 333,
+    "category": "technical",
+    "question": "What does the principle of least privilege mean?",
+    "options": [
+      "Give users and services only the permissions they need",
+      "Give every user administrator access",
+      "Disable all authentication",
+      "Store every secret in frontend code"
+    ],
+    "answer": "Give users and services only the permissions they need",
+    "explanation": "Limiting permissions reduces the damage possible if an account or service is compromised.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 334,
+    "category": "technical",
+    "question": "What is a common cause of an N+1 query problem?",
+    "options": [
+      "Fetching a collection and then issuing an additional query for each item",
+      "Creating one query that retrieves all required data efficiently",
+      "Using a CSS media query",
+      "Applying a database migration once"
+    ],
+    "answer": "Fetching a collection and then issuing an additional query for each item",
+    "explanation": "N+1 behavior can create many unnecessary database round trips; joins or batch loading may help.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 335,
+    "category": "technical",
+    "question": "Why are parameterized SQL queries important?",
+    "options": [
+      "They help separate SQL instructions from user-supplied values",
+      "They guarantee every query is fast",
+      "They automatically encrypt the whole database",
+      "They remove the need for authorization"
+    ],
+    "answer": "They help separate SQL instructions from user-supplied values",
+    "explanation": "Parameterized queries are a primary defense against SQL injection when used correctly.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 336,
+    "category": "technical",
+    "question": "What is an idempotent API operation?",
+    "options": [
+      "Repeating the same request has the same intended effect as making it once",
+      "The request must always return a different value",
+      "The request never changes server state",
+      "The request can only be sent once"
+    ],
+    "answer": "Repeating the same request has the same intended effect as making it once",
+    "explanation": "Idempotency matters for retries; PUT and DELETE are defined as idempotent in HTTP semantics.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 337,
+    "category": "technical",
+    "question": "Why can storing sensitive information in frontend environment variables be unsafe?",
+    "options": [
+      "Values bundled into browser code may be visible to users",
+      "Environment variables are always stored only on a private server",
+      "Browsers cannot inspect JavaScript bundles",
+      "It automatically disables network access"
+    ],
+    "answer": "Values bundled into browser code may be visible to users",
+    "explanation": "Frontend configuration included in client bundles should be treated as public; secrets belong on trusted server infrastructure.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 338,
+    "category": "technical",
+    "question": "What is the purpose of a refresh token in an authentication design?",
+    "options": [
+      "Obtain new access tokens without requiring full login every time, subject to server policy",
+      "Store the user's password in plain text",
+      "Replace authorization checks on every endpoint",
+      "Guarantee a token can never be stolen"
+    ],
+    "answer": "Obtain new access tokens without requiring full login every time, subject to server policy",
+    "explanation": "Refresh tokens require secure storage, rotation, and revocation policies.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 339,
+    "category": "technical",
+    "question": "What is the purpose of rate limiting an API?",
+    "options": [
+      "Restrict request volume to reduce abuse and protect service capacity",
+      "Guarantee every request succeeds",
+      "Encrypt all request bodies",
+      "Replace input validation"
+    ],
+    "answer": "Restrict request volume to reduce abuse and protect service capacity",
+    "explanation": "Rate limits help protect services from excessive traffic and can be applied by user, IP, token, or other keys.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 340,
+    "category": "technical",
+    "question": "What is the purpose of a content delivery network (CDN)?",
+    "options": [
+      "Improve scalability and reduce latency for static and cached content",
+      "Replace all client-side JavaScript",
+      "Prevent the need for HTTP requests",
+      "Remove the requirement for credentials"
+    ],
+    "answer": "Improve scalability and reduce latency for static and cached content",
+    "explanation": "A CDN caches and serves content closer to users, improving latency and reducing the load on origin servers.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 341,
+    "category": "technical",
+    "question": "What is the main benefit of database indexing?",
+    "options": [
+      "Make data access faster for frequent lookups",
+      "Replace all application logic",
+      "Guarantee a consistent UI across browsers",
+      "Remove the need for a database"
+    ],
+    "answer": "Make data access faster for frequent lookups",
+    "explanation": "Indexes help the database locate rows efficiently without scanning the whole table for each query.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 342,
+    "category": "technical",
+    "question": "Why is API contract testing useful?",
+    "options": [
+      "Catch mismatches between consumer expectations and server responses",
+      "Skip all validation in production",
+      "Duplicate every route in the frontend",
+      "Remove all tests from CI"
+    ],
+    "answer": "Catch mismatches between consumer expectations and server responses",
+    "explanation": "API contract tests verify that clients and servers agree on the shape and behavior of exchanged data.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 343,
+    "category": "technical",
+    "question": "What is the purpose of a session store in a web application?",
+    "options": [
+      "Persist authenticated user state across requests in a controlled manner",
+      "Store only CSS variables",
+      "Replace the database schema",
+      "Ensure all clients are trusted"
+    ],
+    "answer": "Persist authenticated user state across requests in a controlled manner",
+    "explanation": "Session stores help maintain authenticated user context across requests with controlled expiration and security practices.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 344,
+    "category": "technical",
+    "question": "What is a common goal of performance profiling?",
+    "options": [
+      "Identify bottlenecks and optimize the most expensive operations",
+      "Guarantee the app has no bugs",
+      "Replace all database queries",
+      "Automatically generate UI mockups"
+    ],
+    "answer": "Identify bottlenecks and optimize the most expensive operations",
+    "explanation": "Profiling identifies the most expensive code paths so optimization efforts address the biggest bottlenecks.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 345,
+    "category": "technical",
+    "question": "Why should logs be structured in production systems?",
+    "options": [
+      "Make debugging, monitoring, and incident response easier",
+      "Prevent all user interaction",
+      "Replace every API response",
+      "Delete old code automatically"
+    ],
+    "answer": "Make debugging, monitoring, and incident response easier",
+    "explanation": "Structured logs make troubleshooting and production monitoring much easier during incidents and normal operations.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 346,
+    "category": "technical",
+    "question": "What is the purpose of a health check endpoint in a service?",
+    "options": [
+      "Report whether the service is responsive and operational",
+      "Style the login page",
+      "Store every request permanently",
+      "Replace unit tests"
+    ],
+    "answer": "Report whether the service is responsive and operational",
+    "explanation": "Health checks let monitoring systems and load balancers determine whether a service is ready to receive traffic.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  },
+  {
+    "id": 347,
+    "category": "technical",
+    "question": "What is the main purpose of a deployment pipeline?",
+    "options": [
+      "Automate build, test, and release steps to reduce risk",
+      "Write all database queries in the browser",
+      "Delete old source code permanently",
+      "Remove the need for monitoring"
+    ],
+    "answer": "Automate build, test, and release steps to reduce risk",
+    "explanation": "Deployment pipelines automate validation and release steps, reducing manual errors and speeding up reliable delivery.",
+    "difficulty": "hard",
+    "roles": [
+      "full_stack_developer"
+    ]
+  }
+]
